@@ -8,7 +8,7 @@
  
 ---
  
-## ⚙️ Como executar os notebooks
+## Como executar os notebooks
 
 1. Acesse: [Google Colab](https://colab.research.google.com/).  
 2. Clique em **File → Upload notebook** e selecione os arquivos que deseja ver 
